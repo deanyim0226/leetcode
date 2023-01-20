@@ -1,6 +1,6 @@
 # leetcode
 | Status | Topic | Title | Solution |
 | :---: | :---: | :---: | :---: |
-| :white_check_mark: | String | [3. Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)| [Code](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+| :white_check_mark: | String | [3. Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)| [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/3) |
 | :black_square_button: | upcoming | upcoming | upcoming |
 
