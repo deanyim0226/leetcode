@@ -3,7 +3,8 @@ def lengthOfLongestSubstring(s: str) -> int:
     #initial approach to this problem would be using dictionary with associated indexes of string  
     #if so, we can easily detect the duplicate character with o(1) time complexity
     #whenever we found the repeating characters, we can calculate the length of the substring.
-     
+    #the time complexity of this problem is o(n) since we iterate the string one time
+    
     longestLength = 0
     prev = 0
     dic = dict()
