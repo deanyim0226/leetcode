@@ -6,11 +6,11 @@
 | :white_check_mark: | Array | [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)  | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/718) |
 | :white_check_mark: | Array | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/122) |
 | :white_check_mark: | Array | [322. Coin Change](https://leetcode.com/problems/coin-change/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/322) |
-| :black_square_button: | Array | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/55) |
+| :white_check_mark: | Array | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/55) |
 | :black_square_button: | upcoming | upcoming | upcoming |
 
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Solution |
 | :---: | :---: | :---: | :---: |
-| :white_check_mark: | Binary Search | [1351. Count Negative Numbers in a Sorted Matrix]([https://leetcode.com/problems/jump-game](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/?envType=study-plan-v2&id=binary-search/)) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/1351) |
+| :white_check_mark: | Binary Search | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/?envType=study-plan-v2&id=binary-search/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/1351) |
 | :black_square_button: | upcoming | upcoming | upcoming |
