@@ -10,7 +10,7 @@
 | :black_square_button: | upcoming | upcoming | upcoming |
 
 -------------------------------------------------------------------------------
-| Status | Topic | Title | Solution |
+| Status | Algorithm | Title | Solution |
 | :---: | :---: | :---: | :---: |
 | :white_check_mark: | Binary Search | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/?envType=study-plan-v2&id=binary-search/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/1351) |
 | :black_square_button: | upcoming | upcoming | upcoming |
