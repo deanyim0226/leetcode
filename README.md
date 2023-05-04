@@ -11,5 +11,6 @@
 
 -------------------------------------------------------------------------------
 | Status | Topic | Title | Solution |
-| :black_square_button: | Array | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/55) |
+| :---: | :---: | :---: | :---: |
+| :black_square_button: | Binary Search | [1351. Count Negative Numbers in a Sorted Matrix]([https://leetcode.com/problems/jump-game](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/?envType=study-plan-v2&id=binary-search)/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/1351) |
 | :black_square_button: | upcoming | upcoming | upcoming |
