@@ -7,6 +7,7 @@
 | :white_check_mark: | Array | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/122) |
 | :white_check_mark: | Array | [322. Coin Change](https://leetcode.com/problems/coin-change/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/322) |
 | :white_check_mark: | Array | [55. Jump Game](https://leetcode.com/problems/jump-game/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/55) |
+| :white_check_mark: | Array | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&id=top-interview-150) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/80) |
 | :black_square_button: | upcoming | upcoming | upcoming |
 
 -------------------------------------------------------------------------------
