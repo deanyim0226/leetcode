@@ -25,5 +25,7 @@
 | Status | Algorithm | Title | Solution |
 | :---: | :---: | :---: | :---: |
 | :white_check_mark: | Backtracking/Recursion | [77. Combinations](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/?envType=study-plan-v2&id=binary-search/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/77) |
+| :white_check_mark: | Backtracking/Recursion | [79. Word Search](https://leetcode.com/problems/word-search/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/79) |
+| :white_check_mark: | Backtracking/Recursion | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/1863) |
 | :black_square_button: | upcoming | upcoming | upcoming |
 
