@@ -29,3 +29,9 @@
 | :white_check_mark: | Backtracking/Recursion | [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/1863) |
 | :black_square_button: | upcoming | upcoming | upcoming |
 
+-------------------------------------------------------------------------------
+| Status | Algorithm | Title | Solution |
+| :---: | :---: | :---: | :---: |
+| :white_check_mark: | Dynamic Programming | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/70) |
+| :black_square_button: | upcoming | upcoming | upcoming |
+
