@@ -32,6 +32,7 @@
 -------------------------------------------------------------------------------
 | Status | Algorithm | Title | Solution |
 | :---: | :---: | :---: | :---: |
-| :white_check_mark: | Dynamic Programming | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/70) |
+| :white_check_mark: | Dynamic Programming | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=study-plan-v2&envId=top-interview-150) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/198) |
+| :white_check_mark: | Dynamic Programming | [198. House Robber](https://leetcode.com/problems/house-robber/description/?envType=study-plan-v2&envId=top-interview-150) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/198) |
 | :black_square_button: | upcoming | upcoming | upcoming |
 
