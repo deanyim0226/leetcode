@@ -4,7 +4,7 @@ class Solution:
         1 3 3 6 7 7 9
         1 3 6 7 9
 
-        i am going to use the ptr1 equal to zero, then access the index of the array nums using loops
+        I am going to use the ptr1 equal to zero, then access the index of the array nums using loops
         i need while loop and if statement to commpare if the first element of array smaller than second one if it is true i will keep the first one if it is not true i will remove that element in the array 
     and i commpare if it is the same number or not if it is i will remove it using method remove.
 
