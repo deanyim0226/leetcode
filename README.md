@@ -13,6 +13,12 @@
 -------------------------------------------------------------------------------
 | Status | Algorithm | Title | Solution |
 | :---: | :---: | :---: | :---: |
+| :white_check_mark: | Sliding Window | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/198) |
+| :black_square_button: | upcoming | upcoming | upcoming |
+
+-------------------------------------------------------------------------------
+| Status | Algorithm | Title | Solution |
+| :---: | :---: | :---: | :---: |
 | :white_check_mark: | Binary Search | [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/?envType=study-plan-v2&id=binary-search/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/1351) |
 | :white_check_mark: | Binary Search | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/?envType=study-plan-v2&id=binary-search) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/153) |
 | :white_check_mark: | Binary Search | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/?envType=study-plan-v2&id=binary-search/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/74) |
