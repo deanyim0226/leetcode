@@ -11,6 +11,11 @@
 | :black_square_button: | upcoming | upcoming | upcoming |
 
 -------------------------------------------------------------------------------
+| Status | Topic | Title | Solution |
+| :---: | :---: | :---: | :---: |
+| :white_check_mark: | Linkedlist | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/206) |
+
+-------------------------------------------------------------------------------
 | Status | Algorithm | Title | Solution |
 | :---: | :---: | :---: | :---: |
 | :white_check_mark: | Sliding Window | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/198) |
@@ -42,7 +47,4 @@
 | :white_check_mark: | Dynamic Programming | [198. House Robber](https://leetcode.com/problems/house-robber/description/?envType=study-plan-v2&envId=top-interview-150) | [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/198) |
 | :black_square_button: | upcoming | upcoming | upcoming |
 
--------------------------------------------------------------------------------
-| Status | Topic | Title | Solution |
-| :---: | :---: | :---: | :---: |
-| :white_check_mark: | Linkedlist | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Code](https://github.com/deanyim0226/leetcode/tree/main/solutions/206) |
+
